@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "https://cdn.iconscout.com/icon/free/png-512/free-html-59-225995.png?f=webp&w=256"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256"
+    },
+    {
+      "title": "React",
+      "imageSrc": "https://cdn.iconscout.com/icon/free/png-512/free-react-3521666-2945110.png?f=webp&w=256"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
+    },
+    {
+      "title": "Mysql",
+      "imageSrc": "https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-256.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/640/aws-256.png"
+    },
+    {
+      "title": "Machine Learning",
+      "imageSrc": "https://cdn0.iconfinder.com/data/icons/smart-devices-19/69/59-256.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png"
+    }
+  ]

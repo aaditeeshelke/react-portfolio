@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Python Voice Assistant",
+      "imageSrc": "https://img.freepik.com/premium-vector/voice-assistant-concept-artificial-intelligence-wave-microphone-control-sound-recognition_653980-38.jpg?w=740",
+      "description": "Automatic speech recognition (ASR) identifies spoken words and phrases and translates them to a readable Computer format also known as speech-to-text conversion", 
+      "skills": ["Python", "VS CODE"],
+      "demo": "",
+      "source": "https://github.com/aaditeeshelke/avitrices-assistant.git"
+    },
+    {
+      "title": "Expense Management App",
+      "imageSrc": "projects/project.png",
+      "description": "The Expense Tracker project is a web application developed using React. Its main purpose is to assist users in keeping track of their expenses.  ",
+      "skills": ["React", "HTML", "CSS","GIT"],
+      "demo": "https://react-expense-management-app.vercel.app/",
+      "source": "https://github.com/aaditeeshelke/React-expense-management-app.git"
+    },
+    {
+      "title": "Suggest Me a Book",
+      "imageSrc": "projects/project.png",
+      "description": "Amazon suggest a movies or products like that my system suggest the similar books of search.",
+      "skills": ["ML", "HTML", "CSS","Python"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

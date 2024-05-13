@@ -1,0 +1,19 @@
+[
+    {
+      "role": "AWS Intern",
+      "organisation": "Technogeeks",
+      "startDate": "JUN, 2023",
+      "endDate": "AUG, 2023",
+      "experiences": ["Handled VPC configuration like checking on subnets, route tables, security groups", "Worked on creation of ec2 machines for team’s developers and test engineer","Worked with IAM service for user creation, policy and roles assignment"],
+      "imageSrc": "https://scontent.fpnq7-7.fna.fbcdn.net/v/t39.30808-6/278150079_344539534360632_5675607522212743066_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=btasEmow3xoQ7kNvgFr4cMk&_nc_ht=scontent.fpnq7-7.fna&oh=00_AYAi_t64qcdKP78Rg33ec8yCNetOZaQv7w7hJSR5bRbtLA&oe=6644C497"
+    },
+    {
+      "role": "Software Devloper",
+      "organisation": "Numetry Technologies",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on Front End technology", "Designed Web application using React js"," Hosted projects on Vercel Github "],
+      "imageSrc": "https://media.licdn.com/dms/image/D560BAQH5YHtpxAHvDA/company-logo_200_200/0/1694512590827/numetry_technologies_logo?e=2147483647&v=beta&t=cC088ox_T045191puks_Kh8YBwm6jbA3aWIp9u8Rnzc"
+    }
+   
+  ]
